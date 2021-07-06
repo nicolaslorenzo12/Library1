@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Library>
+    <book>
+        <name>Harry Potter</name>
+        <author>JK Rowling</author>
+        <availability>true</availability>
+        <number>1</number>
+    </book>
+
+    <book>
+        <name>To Kill a Mockingbird</name>
+        <author>Harper Lee</author>
+        <availability>true</availability>
+        <number>2</number>
+    </book>
+
+    <book>
+        <name>Things Fall Apart</name>
+        <author>Chinua Achebe</author>
+        <availability>false</availability>
+        <number>3</number>
+    </book>
+
+    <book>
+        <name>Moby-Dick</name>
+        <author>Herman Melville</author>
+        <availability>true</availability>
+        <number>4</number>
+    </book>
+
+    <book>
+        <name>The Color Purple</name>
+        <author>Alice Walker</author>
+        <availability>false</availability>
+        <number>5</number>
+    </book>
+
+    <book>
+        <name>Catch-22</name>
+        <author>Joseph Heller</author>
+        <availability>false</availability>
+        <number>6</number>
+    </book>
+
+    <book>
+        <name>Atlas Shrugged</name>
+        <author>Ayn Rand</author>
+        <availability>true</availability>
+        <number>7</number>
+    </book>
+
+    <book>
+        <name>1984</name>
+        <author>George Orwell</author>
+        <availability>true</availability>
+        <number>8</number>
+    </book>
+
+    <book>
+        <name>Hamlet</name>
+        <author>William Shakespeare</author>
+        <availability>false</availability>
+        <number>9</number>
+    </book>
+
+    <book>
+        <name>The Catcher in the Rye</name>
+        <author>J.D. Salinger</author>
+        <availability>true</availability>
+        <number>10</number>
+    </book>
+
+</Library>
